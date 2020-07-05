@@ -7,6 +7,7 @@
     <groupId>edu.javacourse.ext</groupId>
     <artifactId>city-register</artifactId>
     <version>1.0-SNAPSHOT</version>
+
    <dependencies> <dependency>
        <groupId>junit</groupId>
        <artifactId>junit</artifactId>
@@ -19,5 +20,7 @@
            <version>1.7.25</version>
        </dependency>
    </dependencies>
+
+
 
 </project>
